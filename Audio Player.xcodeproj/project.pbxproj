@@ -13,6 +13,7 @@
 		CEFE178C21E90A7900959568 /* Audio_Player.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CEFE178A21E90A7900959568 /* Audio_Player.xcdatamodeld */; };
 		CEFE178E21E90A7B00959568 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEFE178D21E90A7B00959568 /* Assets.xcassets */; };
 		CEFE179121E90A7B00959568 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEFE178F21E90A7B00959568 /* LaunchScreen.storyboard */; };
+		CEFE179921E90B1700959568 /* sheep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEFE179821E90B1700959568 /* sheep.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CEFE178D21E90A7B00959568 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEFE179021E90A7B00959568 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEFE179221E90A7B00959568 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEFE179821E90B1700959568 /* sheep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sheep.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				CEFE178721E90A7900959568 /* Main.storyboard */,
 				CEFE178D21E90A7B00959568 /* Assets.xcassets */,
 				CEFE178F21E90A7B00959568 /* LaunchScreen.storyboard */,
+				CEFE179821E90B1700959568 /* sheep.mp3 */,
 				CEFE179221E90A7B00959568 /* Info.plist */,
 				CEFE178A21E90A7900959568 /* Audio_Player.xcdatamodeld */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEFE179921E90B1700959568 /* sheep.mp3 in Resources */,
 				CEFE179121E90A7B00959568 /* LaunchScreen.storyboard in Resources */,
 				CEFE178E21E90A7B00959568 /* Assets.xcassets in Resources */,
 				CEFE178921E90A7900959568 /* Main.storyboard in Resources */,
